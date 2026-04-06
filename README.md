@@ -9,21 +9,6 @@
 
 ---
 
-## About Me
-
-Data analyst with a background in **economics, business analytics, and experimentation**.  
-Currently working as a **Working Student at Redcare Pharmacy**, focusing on **data analytics, A/B testing, and data-informed decision-making**.
-
-My interests include:
-- Data analytics
-- SQL and data modeling
-- Business intelligence
-- A/B testing
-- Econometric modeling
-- Statistics
-
----
-
 ## Technical Skills
 
 ### Languages
@@ -52,48 +37,18 @@ My interests include:
 
 ---
 
-## Areas of Expertise
-
-- Data Analytics
-- A/B Testing
-- Business Intelligence
-- Econometric Modeling
-- SQL Analytics
-- Statistical Analysis
-- Decision-Support Analytics
-
----
-
-## Current Focus
-
-Currently building analytics projects combining:
-- SQL data modeling
-- Python analytics pipelines
-- business intelligence dashboards
-- experimentation and A/B testing
-- product and customer behavior analysis
-
-**Goal:** develop production-style analytics workflows used in real organizations.
-
----
-
-## Tech Stack
-
-| Category | Tools |
-|---|---|
-| Programming | Python, R, SQL |
-| Data & Analytics | Pandas, NumPy, Scikit-Learn, Excel |
-| BI Tools | Power BI, Tableau |
-| Enterprise Tools | SAP, QuickBooks |
-| Version Control | Git, GitHub |
-| Workflow | VS Code |
-
----
-
 ## Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/berkepehlivan/">
     <img src="https://img.shields.io/badge/LinkedIn-Berke%20Pehlivan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+## Featured Repositories
+- [AboutMe](https://github.com/Berke-Pehli/AboutMe)
+- [conversion_uplift_experimentation_project](https://github.com/Berke-Pehli/conversion_uplift_experimentation_project)
+- [olist_ecommerce_project](https://github.com/Berke-Pehli/olist_ecommerce_project)
+
